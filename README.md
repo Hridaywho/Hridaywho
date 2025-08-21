@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Hriday Poladia  
+# Hi there 👋, I'm Hriday  
 
 🎓 BSc in Information Technology @ Nirmala Memorial  
 💻 Passionate about Web Development, Programming & Open Source  
